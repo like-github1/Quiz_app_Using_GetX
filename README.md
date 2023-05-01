@@ -1,4 +1,4 @@
-# quiz
+# quiz App Using GetX, developed by Solomon Girma,
 
 A new Flutter project.
 
